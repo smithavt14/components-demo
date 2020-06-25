@@ -1,0 +1,54 @@
+.card-category {
+  height: 240px;
+  background-image: url("../../images/breakfast.jpg");
+  background-size: cover;
+  border-radius: 8px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-shadow: 1px 1px 1px black;
+}
+
+
+.card-product {
+  height: 160px;
+  background: white;
+  box-shadow: 4px 4px 8px rgba(0,0,0,0.1);
+  display: flex;
+  align-items: center;
+  margin: 32px 0;
+  border-radius: 4px;
+  overflow: hidden;
+
+}
+
+.card-product img {
+  height: 100%;
+  object-fit: cover;
+}
+
+.card-trip {
+  height: 320px;
+  background: white;
+  border-radius: 4px;
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.2);
+  overflow: hidden;
+  margin: 32px 0;
+}
+
+.card-trip img {
+  height: 60%;
+  width: 100%;
+  object-fit: cover;
+}
+
+
+
+
+
+
+
+
+
+

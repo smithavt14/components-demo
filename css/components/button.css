@@ -1,0 +1,24 @@
+.btn {
+  border-radius: 4px;
+  padding: 8px 0;
+  width: 160px;
+  text-decoration: none;
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+.btn-red {
+  color: white;
+  background: #D10C61;
+}
+
+.btn-white {
+  background: white;
+  color: #D10C61;
+}
+
+.btn-ghost {
+  background: none;
+  border: 1px solid #D10C61;
+  color: #D10C61;
+}

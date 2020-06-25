@@ -1,0 +1,24 @@
+.flexbox {
+  border: 1px solid black;
+  height: 400px;
+  width: 800px;
+  display: flex;
+  justify-content: space-between;
+  /*align-items: flex-end;*/
+}
+
+.flex-grow {
+  flex-grow: 1;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.align-items-end {
+  align-items: flex-end;
+}
